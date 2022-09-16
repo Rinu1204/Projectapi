@@ -1,0 +1,42 @@
+C:\Users\Pradeepa.Jayapal\source\repos\Stock_DAL\Stock_DAL\bin\Debug\net6.0\Stock_DAL.deps.json
+C:\Users\Pradeepa.Jayapal\source\repos\Stock_DAL\Stock_DAL\bin\Debug\net6.0\Stock_DAL.runtimeconfig.json
+C:\Users\Pradeepa.Jayapal\source\repos\Stock_DAL\Stock_DAL\bin\Debug\net6.0\Stock_DAL.dll
+C:\Users\Pradeepa.Jayapal\source\repos\Stock_DAL\Stock_DAL\bin\Debug\net6.0\Stock_DAL.pdb
+C:\Users\Pradeepa.Jayapal\source\repos\Stock_DAL\Stock_DAL\obj\Debug\net6.0\Stock_DAL.csproj.AssemblyReference.cache
+C:\Users\Pradeepa.Jayapal\source\repos\Stock_DAL\Stock_DAL\obj\Debug\net6.0\Stock_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pradeepa.Jayapal\source\repos\Stock_DAL\Stock_DAL\obj\Debug\net6.0\Stock_DAL.AssemblyInfoInputs.cache
+C:\Users\Pradeepa.Jayapal\source\repos\Stock_DAL\Stock_DAL\obj\Debug\net6.0\Stock_DAL.AssemblyInfo.cs
+C:\Users\Pradeepa.Jayapal\source\repos\Stock_DAL\Stock_DAL\obj\Debug\net6.0\Stock_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Pradeepa.Jayapal\source\repos\Stock_DAL\Stock_DAL\obj\Debug\net6.0\Stock_DAL.dll
+C:\Users\Pradeepa.Jayapal\source\repos\Stock_DAL\Stock_DAL\obj\Debug\net6.0\refint\Stock_DAL.dll
+C:\Users\Pradeepa.Jayapal\source\repos\Stock_DAL\Stock_DAL\obj\Debug\net6.0\Stock_DAL.pdb
+C:\Users\Pradeepa.Jayapal\source\repos\Stock_DAL\Stock_DAL\obj\Debug\net6.0\Stock_DAL.genruntimeconfig.cache
+C:\Users\Pradeepa.Jayapal\source\repos\Stock_DAL\Stock_DAL\obj\Debug\net6.0\ref\Stock_DAL.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_DAL\bin\Debug\net6.0\Stock_DAL.deps.json
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_DAL\bin\Debug\net6.0\Stock_DAL.runtimeconfig.json
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_DAL\bin\Debug\net6.0\Stock_DAL.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_DAL\bin\Debug\net6.0\Stock_DAL.pdb
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_DAL\obj\Debug\net6.0\Stock_DAL.csproj.AssemblyReference.cache
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_DAL\obj\Debug\net6.0\Stock_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_DAL\obj\Debug\net6.0\Stock_DAL.AssemblyInfoInputs.cache
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_DAL\obj\Debug\net6.0\Stock_DAL.AssemblyInfo.cs
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_DAL\obj\Debug\net6.0\Stock_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_DAL\obj\Debug\net6.0\Stock_DAL.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_DAL\obj\Debug\net6.0\refint\Stock_DAL.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_DAL\obj\Debug\net6.0\Stock_DAL.pdb
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_DAL\obj\Debug\net6.0\Stock_DAL.genruntimeconfig.cache
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_DAL\obj\Debug\net6.0\ref\Stock_DAL.dll
+D:\Stock Project\Stock_DAL\bin\Debug\net6.0\Stock_DAL.deps.json
+D:\Stock Project\Stock_DAL\bin\Debug\net6.0\Stock_DAL.runtimeconfig.json
+D:\Stock Project\Stock_DAL\bin\Debug\net6.0\Stock_DAL.dll
+D:\Stock Project\Stock_DAL\bin\Debug\net6.0\Stock_DAL.pdb
+D:\Stock Project\Stock_DAL\obj\Debug\net6.0\Stock_DAL.csproj.AssemblyReference.cache
+D:\Stock Project\Stock_DAL\obj\Debug\net6.0\Stock_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stock Project\Stock_DAL\obj\Debug\net6.0\Stock_DAL.AssemblyInfoInputs.cache
+D:\Stock Project\Stock_DAL\obj\Debug\net6.0\Stock_DAL.AssemblyInfo.cs
+D:\Stock Project\Stock_DAL\obj\Debug\net6.0\Stock_DAL.csproj.CoreCompileInputs.cache
+D:\Stock Project\Stock_DAL\obj\Debug\net6.0\Stock_DAL.dll
+D:\Stock Project\Stock_DAL\obj\Debug\net6.0\refint\Stock_DAL.dll
+D:\Stock Project\Stock_DAL\obj\Debug\net6.0\Stock_DAL.pdb
+D:\Stock Project\Stock_DAL\obj\Debug\net6.0\Stock_DAL.genruntimeconfig.cache
+D:\Stock Project\Stock_DAL\obj\Debug\net6.0\ref\Stock_DAL.dll

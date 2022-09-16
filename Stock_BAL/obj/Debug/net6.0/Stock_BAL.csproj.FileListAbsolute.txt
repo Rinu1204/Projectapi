@@ -1,0 +1,30 @@
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_BAL\obj\Debug\net6.0\Stock_BAL.csproj.AssemblyReference.cache
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_BAL\obj\Debug\net6.0\Stock_BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_BAL\obj\Debug\net6.0\Stock_BAL.AssemblyInfoInputs.cache
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_BAL\obj\Debug\net6.0\Stock_BAL.AssemblyInfo.cs
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_BAL\obj\Debug\net6.0\Stock_BAL.csproj.CoreCompileInputs.cache
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_BAL\bin\Debug\net6.0\Stock_BAL.deps.json
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_BAL\bin\Debug\net6.0\Stock_BAL.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_BAL\bin\Debug\net6.0\Stock_BAL.pdb
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_BAL\bin\Debug\net6.0\Stock_DAL.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_BAL\bin\Debug\net6.0\Stock_DAL.pdb
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_BAL\obj\Debug\net6.0\Stock_BAL.csproj.CopyComplete
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_BAL\obj\Debug\net6.0\Stock_BAL.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_BAL\obj\Debug\net6.0\refint\Stock_BAL.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_BAL\obj\Debug\net6.0\Stock_BAL.pdb
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_BAL\obj\Debug\net6.0\ref\Stock_BAL.dll
+D:\Stock Project\Stock_BAL\bin\Debug\net6.0\Stock_BAL.deps.json
+D:\Stock Project\Stock_BAL\bin\Debug\net6.0\Stock_BAL.dll
+D:\Stock Project\Stock_BAL\bin\Debug\net6.0\Stock_BAL.pdb
+D:\Stock Project\Stock_BAL\bin\Debug\net6.0\Stock_DAL.dll
+D:\Stock Project\Stock_BAL\bin\Debug\net6.0\Stock_DAL.pdb
+D:\Stock Project\Stock_BAL\obj\Debug\net6.0\Stock_BAL.csproj.AssemblyReference.cache
+D:\Stock Project\Stock_BAL\obj\Debug\net6.0\Stock_BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stock Project\Stock_BAL\obj\Debug\net6.0\Stock_BAL.AssemblyInfoInputs.cache
+D:\Stock Project\Stock_BAL\obj\Debug\net6.0\Stock_BAL.AssemblyInfo.cs
+D:\Stock Project\Stock_BAL\obj\Debug\net6.0\Stock_BAL.csproj.CoreCompileInputs.cache
+D:\Stock Project\Stock_BAL\obj\Debug\net6.0\Stock_BAL.csproj.CopyComplete
+D:\Stock Project\Stock_BAL\obj\Debug\net6.0\Stock_BAL.dll
+D:\Stock Project\Stock_BAL\obj\Debug\net6.0\refint\Stock_BAL.dll
+D:\Stock Project\Stock_BAL\obj\Debug\net6.0\Stock_BAL.pdb
+D:\Stock Project\Stock_BAL\obj\Debug\net6.0\ref\Stock_BAL.dll

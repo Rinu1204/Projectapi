@@ -1,0 +1,143 @@
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\obj\Debug\net6.0\Stock_API.csproj.AssemblyReference.cache
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\obj\Debug\net6.0\Stock_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\obj\Debug\net6.0\Stock_API.AssemblyInfoInputs.cache
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\obj\Debug\net6.0\Stock_API.AssemblyInfo.cs
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\obj\Debug\net6.0\Stock_API.csproj.CoreCompileInputs.cache
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\obj\Debug\net6.0\Stock_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\obj\Debug\net6.0\Stock_API.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\obj\Debug\net6.0\refint\Stock_API.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\obj\Debug\net6.0\Stock_API.pdb
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\obj\Debug\net6.0\Stock_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\appsettings.json
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Stock_API.exe
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Stock_API.deps.json
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Stock_API.runtimeconfig.json
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Stock_API.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Stock_API.pdb
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Stock_BAL.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Stock_DAL.dll
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Stock_BAL.pdb
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\bin\Debug\net6.0\Stock_DAL.pdb
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\obj\Debug\net6.0\scopedcss\bundle\Stock_API.styles.css
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\obj\Debug\net6.0\Stock_API.csproj.CopyComplete
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\obj\Debug\net6.0\Stock_API.genruntimeconfig.cache
+C:\Users\Rinusha.Banu\source\repos\Stock_DAL-main\Stock_API\obj\Debug\net6.0\ref\Stock_API.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\appsettings.Development.json
+D:\Stock Project\Stock_API\bin\Debug\net6.0\appsettings.json
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Stock_API.exe
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Stock_API.deps.json
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Stock_API.runtimeconfig.json
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Stock_API.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Stock_API.pdb
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Stock_BAL.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Stock_DAL.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Stock_BAL.pdb
+D:\Stock Project\Stock_API\bin\Debug\net6.0\Stock_DAL.pdb
+D:\Stock Project\Stock_API\obj\Debug\net6.0\Stock_API.csproj.AssemblyReference.cache
+D:\Stock Project\Stock_API\obj\Debug\net6.0\Stock_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stock Project\Stock_API\obj\Debug\net6.0\Stock_API.AssemblyInfoInputs.cache
+D:\Stock Project\Stock_API\obj\Debug\net6.0\Stock_API.AssemblyInfo.cs
+D:\Stock Project\Stock_API\obj\Debug\net6.0\Stock_API.csproj.CoreCompileInputs.cache
+D:\Stock Project\Stock_API\obj\Debug\net6.0\Stock_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Stock Project\Stock_API\obj\Debug\net6.0\Stock_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Stock Project\Stock_API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Stock Project\Stock_API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Stock Project\Stock_API\obj\Debug\net6.0\scopedcss\bundle\Stock_API.styles.css
+D:\Stock Project\Stock_API\obj\Debug\net6.0\Stock_API.csproj.CopyComplete
+D:\Stock Project\Stock_API\obj\Debug\net6.0\Stock_API.dll
+D:\Stock Project\Stock_API\obj\Debug\net6.0\refint\Stock_API.dll
+D:\Stock Project\Stock_API\obj\Debug\net6.0\Stock_API.pdb
+D:\Stock Project\Stock_API\obj\Debug\net6.0\Stock_API.genruntimeconfig.cache
+D:\Stock Project\Stock_API\obj\Debug\net6.0\ref\Stock_API.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\NLog.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\LoggerService.dll
+D:\Stock Project\Stock_API\bin\Debug\net6.0\LoggerService.pdb
+D:\Stock Project\Stock_API\bin\Debug\net6.0\nlog.config
